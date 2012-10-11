@@ -1,15 +1,9 @@
-###SlideShow
----------------------------
-
-
-* javascript : [Ali Mihandoost](https://github.com/AliMD)  
-
 ###Technologies:
 
 CSS
 
 HTML5
 
-Javascript 
+Javascript : [Ali Mihandoost](https://github.com/AliMD)
 
 =================
